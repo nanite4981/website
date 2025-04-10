@@ -1,0 +1,312 @@
+[
+    {
+      "title": "Home",
+      "url": "index.html",
+      "description": "Website homepage."
+    },
+    {
+      "title": "Getting Started",
+      "url": "getting_started.html",
+      "description": "Where to start."
+    },
+    {
+      "title": "Sources",
+      "url": "sources.html",
+      "description": "Sources page for all my research."
+    },
+    {
+      "title": "Leadership Within Module",
+      "url": "leadership_within_home.html",
+      "description": ""
+    },
+    {
+      "title": "Leadership Without Module",
+      "url": "leadership_without_home.html",
+      "description": ""
+    },
+    {
+        "title": "Learning how to Learn Module",
+        "url": "learning_how_to_learn_home.html",
+        "description": ""
+    },
+    {
+        "title": "Personal Finance Module",
+        "url": "personal_finance.html",
+        "description": ""
+    },
+    {
+    "title": "Collusion- page",
+    "url": "Leadership_Within/collusion.html",
+    "description": ""
+    },
+    {
+        "title": "conclusion- leadership within",
+        "url": "Leadership_Within/conclusion.html",
+        "description": ""
+    },
+    {
+        "title": "Having Courage- page",
+        "url": "Leadership_Within/courage.html",
+        "description": ""
+    },
+    {
+        "title": "Being Curious- page",
+        "url": "Leadership_Within/curious.html",
+        "description": ""
+    },
+    {
+    "title": "Gratitude- page",
+    "url": "Leadership_Within/gratitude.html",
+    "description": ""
+    },
+    {
+    "title": "Humility- page",
+    "url": "Leadership_Within/humility.html",
+    "description": ""
+    },
+    {
+        "title": "Inspiration- page",
+        "url": "Leadership_Within/inspiration.html",
+        "description": ""
+    },
+    {
+        "title": "Integrity- page",
+        "url": "Leadership_Within/integrity.html",
+        "description": ""
+    },
+    {
+    "title": "Action Within Yourself- section",
+    "url": "Leadership_Within/self-action.html",
+    "description": ""
+    },
+    {
+    "title": "Self-Awareness- page",
+    "url": "Leadership_Within/self-awareness.html",
+    "description": ""
+    },
+    {
+    "title": "Self-Betrayal- section",
+    "url": "Leadership_Within/self-betrayal.html",
+    "description": ""
+    },
+    {
+    "title": "Self-Knowledge- section",
+    "url": "Leadership_Within/self-knowledge.html",
+    "description": ""
+    },
+    {
+    "title": "How You View Others- page",
+    "url": "Leadership_Within/view-others.html",
+    "description": ""
+    },
+    {
+    "title": "How You View Yourself- page",
+    "url": "Leadership_Within/view-yourself.html",
+    "description": ""
+    },
+    {
+    "title": "Having a Vision- page",
+    "url": "Leadership_Within/vision.html",
+    "description": ""
+    },
+    {
+    "title": "Abandoning Assumptions- page",
+    "url": "Leadership_Without/Abandoning_Assumptions.html",
+    "description": ""
+    },
+    {
+    "title": "Acknowledge Your Team's Efforts- page",
+    "url": "Leadership_Without/Acknowledge.html",
+    "description": ""
+    },
+    {
+    "title": "Caring For Your Team- page",
+    "url": "Leadership_Without/caring.html",
+    "description": ""
+    },
+    {
+    "title": "Collaboration- page",
+    "url": "Leadership_Without/collaboration.html",
+    "description": ""
+    },
+    {
+    "title": "Communication",
+    "url": "Leadership_Without/communication.html",
+    "description": ""
+    },
+    {
+    "title": "Conclusion- leadership without",
+    "url": "Leadership_Without/conclusion.html",
+    "description": ""
+    },
+    {
+    "title": "Confidence- section",
+    "url": "Leadership_Without/confidence.html",
+    "description": ""
+    },
+    {
+    "title": "Listening- section",
+    "url": "Leadership_Without/listening.html",
+    "description": ""
+    },
+    {
+    "title": "Loyalty- section",
+    "url": "Leadership_Without/loyalty.html",
+    "description": ""
+    },
+    {
+    "title": "Connection- page",
+    "url": "Leadership_Without/connection.html",
+    "description": ""
+    },
+    {
+    "title": "Growth- page",
+    "url": "Leadership_Without/Growth.html",
+    "description": ""
+    },
+    {
+    "title": "Inspire Confidence- page",
+    "url": "Leadership_Without/Inspire_Confidence.html",
+    "description": ""
+    },
+    {
+    "title": "Recognition- page",
+    "url": "Leadership_Without/recognition.html",
+    "description": ""
+    },
+    {
+    "title": "Supporting Your Team- section",
+    "url": "Leadership_Without/supporting_team.html",
+    "description": ""
+    },
+    {
+    "title": "Create a Unifiying Culture- page",
+    "url": "Leadership_Without/unifying_culture.html",
+    "description": ""
+    },
+    {
+    "title": "Learning how to Learn Module",
+    "url": "learning_how_to_learn_home.html",
+    "description": ""
+    },
+    {
+    "title": "Acknowledge the Painful Truth- page",
+    "url": "Learning_learning/acknowledge.html",
+    "description": ""
+    },
+    {
+    "title": "Conclusion- Learning how to learn",
+    "url": "Learning_learning/conclusion.html",
+    "description": ""
+    },
+    {
+    "title": "Growth- page",
+    "url": "Learning_learning/growth.html",
+    "description": "for learning"
+    },
+    {
+    "title": "You as a Learner- section",
+    "url": "Learning_learning/learner.html",
+    "description": ""
+    },
+    {
+    "title": "Metacognition- page",
+    "url": "Learning_learning/metacognition.html",
+    "description": ""
+    },
+    {
+    "title": "Mindset- section",
+    "url": "Learning_learning/mindset.html",
+    "description": ""
+    },
+    {
+    "title": "Motivation- page",
+    "url": "Learning_learning/motivation.html",
+    "description": ""
+    },
+    {
+    "title": "Overcoming Fear- page",
+    "url": "Learning_learning/overcome-fear.html",
+    "description": ""
+    },
+    {
+    "title": "Memorization- page",
+    "url": "Learning_learning/remembering.html",
+    "description": ""
+    },
+    {
+    "title": "Seeking Knowledge- page",
+    "url": "Learning_learning/seek-knowledge.html",
+    "description": ""
+    },
+    {
+    "title": "Self-Awareness- page",
+    "url": "Learning_learning/self-awareness.html",
+    "description": "for learning"
+    },
+    {
+    "title": "Socratic Method- page",
+    "url": "Learning_learning/socratic-method.html",
+    "description": ""
+    },
+    {
+    "title": "Technique- section",
+    "url": "Learning_learning/technique.html",
+    "description": ""
+    },
+    {
+    "title": "Budgeting- page",
+    "url": "Personal_Finance/budgeting.html",
+    "description": ""
+    },
+    {
+    "title": "Conclusion- personal finance",
+    "url": "Personal_Finance/conclusion.html",
+    "description": ""
+    },
+    {
+    "title": "Credit- page",
+    "url": "Personal_Finance/credit.html",
+    "description": ""
+    },
+    {
+    "title": "Financial Skills- section",
+    "url": "Personal_Finance/financial-skills.html",
+    "description": ""
+    },
+    {
+    "title": "Goals and Planning- page",
+    "url": "Personal_Finance/goals.html",
+    "description": ""
+    },
+    {
+    "title": "Importance of Psychology and Understanding- page",
+    "url": "Personal_Finance/importance.html",
+    "description": ""
+    },
+    {
+    "title": "Personal Responsibility- page",
+    "url": "Personal_Finance/personal-responsibility.html",
+    "description": ""
+    },
+    {
+    "title": "Psychology of Spending- section",
+    "url": "Personal_Finance/spending-psychology.html",
+    "description": ""
+    },
+    {
+    "title": "Spending- page",
+    "url": "Personal_Finance/spending.html",
+    "description": ""
+    },
+    {
+    "title": "Time-Value of Money- page",
+    "url": "Personal_Finance/time-value-money.html",
+    "description": ""
+    },
+    {
+    "title": "Understanding Money- section",
+    "url": "Personal_Finance/understanding-money.html",
+    "description": ""
+    }
+]
